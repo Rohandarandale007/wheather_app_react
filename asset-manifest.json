@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wheather_app_react/static/css/main.fcbf7a82.css",
+    "main.js": "/wheather_app_react/static/js/main.f7e73091.js",
+    "static/js/453.4d3e2793.chunk.js": "/wheather_app_react/static/js/453.4d3e2793.chunk.js",
+    "static/media/clouds.png": "/wheather_app_react/static/media/clouds.058d1121e95348721a5e.png",
+    "index.html": "/wheather_app_react/index.html",
+    "main.fcbf7a82.css.map": "/wheather_app_react/static/css/main.fcbf7a82.css.map",
+    "main.f7e73091.js.map": "/wheather_app_react/static/js/main.f7e73091.js.map",
+    "453.4d3e2793.chunk.js.map": "/wheather_app_react/static/js/453.4d3e2793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcbf7a82.css",
+    "static/js/main.f7e73091.js"
+  ]
+}
